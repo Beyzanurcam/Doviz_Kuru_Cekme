@@ -1,0 +1,17 @@
+C:\Users\DELL\Desktop\YAZILIM_STAJ_GUNLERI\4\dövizcekme\dövizcekme\obj\Debug\net6.0-windows\dövizcekme.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\YAZILIM_STAJ_GUNLERI\4\dövizcekme\dövizcekme\obj\Debug\net6.0-windows\dövizcekme.Form1.resources
+C:\Users\DELL\Desktop\YAZILIM_STAJ_GUNLERI\4\dövizcekme\dövizcekme\obj\Debug\net6.0-windows\dövizcekme.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\YAZILIM_STAJ_GUNLERI\4\dövizcekme\dövizcekme\obj\Debug\net6.0-windows\dövizcekme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\YAZILIM_STAJ_GUNLERI\4\dövizcekme\dövizcekme\obj\Debug\net6.0-windows\dövizcekme.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\YAZILIM_STAJ_GUNLERI\4\dövizcekme\dövizcekme\obj\Debug\net6.0-windows\dövizcekme.AssemblyInfo.cs
+C:\Users\DELL\Desktop\YAZILIM_STAJ_GUNLERI\4\dövizcekme\dövizcekme\obj\Debug\net6.0-windows\dövizcekme.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\YAZILIM_STAJ_GUNLERI\4\dövizcekme\dövizcekme\bin\Debug\net6.0-windows\dövizcekme.exe
+C:\Users\DELL\Desktop\YAZILIM_STAJ_GUNLERI\4\dövizcekme\dövizcekme\bin\Debug\net6.0-windows\dövizcekme.deps.json
+C:\Users\DELL\Desktop\YAZILIM_STAJ_GUNLERI\4\dövizcekme\dövizcekme\bin\Debug\net6.0-windows\dövizcekme.runtimeconfig.json
+C:\Users\DELL\Desktop\YAZILIM_STAJ_GUNLERI\4\dövizcekme\dövizcekme\bin\Debug\net6.0-windows\dövizcekme.dll
+C:\Users\DELL\Desktop\YAZILIM_STAJ_GUNLERI\4\dövizcekme\dövizcekme\bin\Debug\net6.0-windows\dövizcekme.pdb
+C:\Users\DELL\Desktop\YAZILIM_STAJ_GUNLERI\4\dövizcekme\dövizcekme\obj\Debug\net6.0-windows\dövizcekme.dll
+C:\Users\DELL\Desktop\YAZILIM_STAJ_GUNLERI\4\dövizcekme\dövizcekme\obj\Debug\net6.0-windows\refint\dövizcekme.dll
+C:\Users\DELL\Desktop\YAZILIM_STAJ_GUNLERI\4\dövizcekme\dövizcekme\obj\Debug\net6.0-windows\dövizcekme.pdb
+C:\Users\DELL\Desktop\YAZILIM_STAJ_GUNLERI\4\dövizcekme\dövizcekme\obj\Debug\net6.0-windows\dövizcekme.genruntimeconfig.cache
+C:\Users\DELL\Desktop\YAZILIM_STAJ_GUNLERI\4\dövizcekme\dövizcekme\obj\Debug\net6.0-windows\ref\dövizcekme.dll
